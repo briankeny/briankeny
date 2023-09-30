@@ -1,7 +1,4 @@
-Hi 👋 I’m Brian
-
-
-🚀 Software Engineer | Open Source Enthusiast | Lifelong Learner 
+Hi 👋 🚀 I'm a Software Engineer | Open Source Enthusiast | Lifelong Learner 
 
 
 I write code in Python, Js , Shell bla bla ...
@@ -10,7 +7,7 @@ I write code in Python, Js , Shell bla bla ...
 😊 You might find one that is actually useful.
 
 
-🌟 Exploring the 🌎 of code, one commit at a time.
+🌟 Exploring the World of code, one commit at a time.
 
 
 👀 A few interesting projects coming ...
