@@ -10,4 +10,4 @@ I write code in Python, Js & Shell .You might find one that is actually useful.
 👀  A few interesting projects coming ...
 
 
-🕸 Connect with me on [Twitter](https://twitter.com/Brian__1__) [LinkedIn](https://www.linkedin.com/in/brian-kipkemboi-aa949419a)
+🕸 Connect with me on [Twitter](https://twitter.com/Brian__k__) [LinkedIn](https://www.linkedin.com/in/brian-kipkemboi-aa949419a)
