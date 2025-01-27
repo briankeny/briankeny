@@ -10,4 +10,4 @@ I write Code in Python, Kotlin, Rust, Js & Shell .You might find one that is act
 👀  A few interesting Projects coming ...
 
 
-🕸 Connect with me on [Twitter](https://twitter.com/iambriankeny) [LinkedIn](https://www.linkedin.com/in/brian-kipkemboi-aa949419a)
+🕸 Connect with me on [Twitter](https://twitter.com/briankeny_) [LinkedIn](https://www.linkedin.com/in/brian-kipkemboi-aa949419a)
